@@ -3,7 +3,7 @@ name = "SigmaOS-brightnessctl"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "brightnessctl component"
+description = "SigmaOS SigmaOS-brightnessctl component"
 upstream = []
 
 [contract]
